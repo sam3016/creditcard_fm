@@ -1,7 +1,7 @@
 <h1>Credit Card(v0.1)</h1>
 
 <h2>Introduction</h2>
-It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and react-color. 
+It is a simple addon I built based on the template (cra-template-fmw) from Geist Interactive(for details, please check: https://github.com/geistinteractive/cra-template-fmw) and react-credit-cards. 
 
 It is not for production use. The addon is used at your own risk. I cannot guarantee there is no bug.
 
@@ -29,7 +29,7 @@ Please do not change the value of the value list, it may not support those value
 If there are any issue you found, please contact me through GitHub or Twitter.
 
 <h2>紹介</h2>
-Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/cra-template-fmw) とreact-colorで作られたツールです。
+Geist Interactiveのテンプレイ(詳細: https://github.com/geistinteractive/cra-template-fmw) とreact-credit-cardsで作られたツールです。
 
 本番用ではありません。アドオンは自己責任でご利用ください。バグがないことは保証できません。
 
