@@ -1,0 +1,1 @@
+﻿{	"Title" : "TarjetaDeCredito",	"Description" : "Interfaz de usuario elegante para formulario de entrada de tarjeta de crédito",	"Category" : "Complemento de Sam.H",	"Features" : 	[		"Entrada de tarjeta de crédito, guardar detalles de la tarjeta de crédito"	],	"Optimized" : [ "Desktop", "Tablet", "Mobile" ]}
